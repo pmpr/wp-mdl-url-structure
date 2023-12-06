@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             656c9bddf1134             |
+    |             6570b300e0a44             |
     |_______________________________________|
 */
- namespace Pmpr\Module\URLStructure\Traits; use Pmpr\Module\URLStructure\Engine; trait EngineTrait { protected ?Engine $engine = null; public function uykissogmuaaocsg() : Engine { if ($this->engine) { goto umgaesggesswoaqe; } $this->engine = Engine::symcgieuakksimmu(); umgaesggesswoaqe: return $this->engine; } }
+ namespace Pmpr\Module\URLStructure\Traits; use Pmpr\Module\URLStructure\Engine; trait EngineTrait { protected ?Engine $engine = null; public function uykissogmuaaocsg() : Engine { if ($this->engine) { goto ygcsmkuycoagwyou; } $this->engine = Engine::symcgieuakksimmu(); ygcsmkuycoagwyou: return $this->engine; } }

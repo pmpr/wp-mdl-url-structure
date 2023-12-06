@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr URLStructure\n"
-"POT-Creation-Date: 2023-11-28 13:00+0330\n"
-"PO-Revision-Date: 2023-11-28 13:00+0330\n"
+"POT-Creation-Date: 2023-12-06 20:42+0330\n"
+"PO-Revision-Date: 2023-12-06 20:42+0330\n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -22,60 +22,82 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: lib\n"
 "X-Poedit-SearchPathExcluded-1: *.js\n"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:33
-#: src/Pmpr/Module/URLStructure/URLStructure.php:17
+#: src/Pmpr/Module/URLStructure/Setting.php:32
+#: src/Pmpr/Module/URLStructure/URLStructure.php:18
 msgid "URL Structure"
 msgstr "ساختار پیوند"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:34
+#: src/Pmpr/Module/URLStructure/Setting.php:33
 msgid "URL Structure Setting"
 msgstr "تنظیمات ساختار پیوند"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:42
+#: src/Pmpr/Module/URLStructure/Setting.php:67
 msgid "Subdomain"
 msgstr "ساب‌ دامین"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:44
+#: src/Pmpr/Module/URLStructure/Setting.php:69
 msgid "Subdomain Configuration"
 msgstr "پیکربندی ساب دامین"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:47
+#: src/Pmpr/Module/URLStructure/Setting.php:72
 msgid "Rule"
 msgstr "قاعده"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:51
+#: src/Pmpr/Module/URLStructure/Setting.php:76
 msgid "Target"
 msgstr "هدف"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:52
-#: src/Pmpr/Module/URLStructure/Setting.php:60
+#: src/Pmpr/Module/URLStructure/Setting.php:77
+#: src/Pmpr/Module/URLStructure/Setting.php:84
 msgid "Taxonomy"
 msgstr "طبقه‌بندی"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:53
-#: src/Pmpr/Module/URLStructure/Setting.php:66
+#: src/Pmpr/Module/URLStructure/Setting.php:78
+#: src/Pmpr/Module/URLStructure/Setting.php:96
 msgid "Post Types"
 msgstr "نوع نوشته‌ها"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:61
+#: src/Pmpr/Module/URLStructure/Setting.php:85
 msgid "Determine which taxonomy used as subdomain."
 msgstr "مشخص کنید کدام نوع طبقه‌بندی به عنوان ساب‌دامین مورد استفاده قرار گیرد."
 
-#: src/Pmpr/Module/URLStructure/Setting.php:70
+#: src/Pmpr/Module/URLStructure/Setting.php:89
+msgid "Register Post Types"
+msgstr "نوع‌ نوشته‌های متصل شده"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:90
+msgid "Choose any other post types for the selected taxonomy to be registered."
+msgstr ""
+"در صورتی که مایلید طبقه بندی انتخاب شده به نوع نوشته‌های بیشتری متصل شود، آن‌ها "
+"را انتخاب کنید."
+
+#: src/Pmpr/Module/URLStructure/Setting.php:91
+msgid ""
+"Disabled options (if any), are programmed (e.g. via a plugin) and cannot be "
+"changed."
+msgstr ""
+"گزینه‌های غیرفعال (در صورت وجود)، برنامه‌نویسی شده‌اند (مثلا از طریق یک افزونه) "
+"و قابل تغییر نیستند."
+
+#: src/Pmpr/Module/URLStructure/Setting.php:100
 msgid "Post Type"
 msgstr "نوع نوشته"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:75
+#: src/Pmpr/Module/URLStructure/Setting.php:105
 msgid "Use"
 msgstr "استفاده از"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:76
+#: src/Pmpr/Module/URLStructure/Setting.php:106
 msgid "Single Slug"
 msgstr "نامک نوشته"
 
-#: src/Pmpr/Module/URLStructure/Setting.php:77
+#: src/Pmpr/Module/URLStructure/Setting.php:107
 msgid "Archive Slug"
 msgstr "نامک آرشیو"
+
+#~ msgid ""
+#~ "Specify which post types should be registered on the selected taxonomy."
+#~ msgstr "مشخص کنید طبقه‌بندی انتخاب شده به کدام نوع نوشته‌ها متصل شود."
 
 #~ msgid "Post Slug"
 #~ msgstr "نامک نوشته"
